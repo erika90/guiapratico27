@@ -1,0 +1,41 @@
+html{
+	position: relative;
+	min-height: 100%;
+}
+body {
+	padding-top: 50px;
+	background-color: #f9f8f6;
+	padding-bottom:50px;
+}
+.starter-template {
+	padding: 40px 15px;
+	text-align: center;
+}
+.footer{
+	position: absolute;
+	bottom: 0;
+	left:0 ;
+	background-color: #e0e0e0;
+	height: 50px;
+	width: 100%;
+
+}
+.footer p{
+	line-height: 50px;
+	padding: 0;
+	margin:0;
+}
+
+.panel{
+	margin-top: 10px;
+}
+
+.modal-scroll{
+	max-height: 600px;
+	overflow-y: auto;
+}
+/*CSS Agostinho*/
+.bottom-margin{
+	margin-bottom: 2em;
+}
+/*sytle for frota automovel submenu*/
